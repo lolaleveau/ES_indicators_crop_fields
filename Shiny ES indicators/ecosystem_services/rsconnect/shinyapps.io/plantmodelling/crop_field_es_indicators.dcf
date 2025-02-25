@@ -1,0 +1,12 @@
+name: crop_field_es_indicators
+title: ecosystem_services
+username: plantmodelling
+account: plantmodelling
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13497078
+bundleId: 9852989
+url: https://plantmodelling.shinyapps.io/crop_field_es_indicators/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

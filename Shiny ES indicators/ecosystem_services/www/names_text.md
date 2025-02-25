@@ -1,0 +1,3 @@
+The indicators extracted from the review of Boerema et al. (2016) had names composed of multiple categories and sub-categories that we synthetized and simplified when it enhanced clarity. Besides, we identified indicators that were presented as single indicators by Boerema et al. (2016) but were in fact an assembly of multiple indicators. These assemblies were decomposed into individual indicators by consulting the original protocols from the reference articles, to ensure that each individual indicator could be independently assessed.
+
+The table below links the indicators names used in our collection with the original indicators names used by Boerema et al. (2016).

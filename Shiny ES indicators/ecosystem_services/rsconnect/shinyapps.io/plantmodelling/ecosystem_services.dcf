@@ -1,0 +1,12 @@
+name: ecosystem_services
+title: ecosystem_services
+username: plantmodelling
+account: plantmodelling
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13459594
+bundleId: 9439574
+url: https://plantmodelling.shinyapps.io/ecosystem_services/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
